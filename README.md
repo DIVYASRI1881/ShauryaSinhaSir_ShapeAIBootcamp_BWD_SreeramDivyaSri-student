@@ -1,0 +1,2 @@
+# ShauryaSinhaSir_ShapeAIBootcamp_BWD_SreeramDivyaSri-student
+This was an amazing bootcamp taken by Shaurya Sinha Sir. We covered Everything from Scratch including JavaScript,ReactJs,HTML. MoreOver I really loved Sir teaching which has created me a great intrest in web dev.Hope I get same faculty for the other boot camp and the paid course of web dev.Thanku for creating a good intrest on webdev in us Sir. Thankyou for Shaping me into my better version. THANKS A LOT Shaurya SIR
